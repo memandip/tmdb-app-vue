@@ -30,5 +30,8 @@ yarn build
 yarn lint
 ```
 
+### Tailwindcss guide for vuejs and vite
+- [Tailwindcss guide](https://tailwindcss.com/docs/guides/vue-3-vite)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

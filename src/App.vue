@@ -1,14 +1,19 @@
 <template>
-  <HelloWorld msg="TMDB APP"/>
+  <div>
+    <Nav />
+    <HelloWorld msg="TMDB APP" />
+  </div>
 </template>
 
 <script lang="ts">
-import { Options, Vue } from 'vue-class-component';
-import HelloWorld from './components/HelloWorld.vue';
+import { Options, Vue } from "vue-class-component";
+import HelloWorld from "./components/HelloWorld.vue";
+import Nav from "./components/nav/Nav.vue";
 
 @Options({
   components: {
     HelloWorld,
+    Nav,
   },
 })
 export default class App extends Vue {}
