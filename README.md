@@ -6,7 +6,7 @@
 # Tools that will be used
 - [typescript](typescriptlang.org)
 - [vuejs 3](https://v3.vuejs.org/)
-- [vuex](https://vuex.vuejs.org/)
+- [vuex](https://next.vuex.vuejs.org/)
 - [tailwindcss](https://tailwindcss.com/)
 - [docker](https://www.docker.com/)
 
